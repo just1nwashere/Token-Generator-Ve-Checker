@@ -11,6 +11,8 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/token-generator-checker-11436
 #
 
 # 📝・ÖZELLİKLER (ÜRETME SÜRESİ - GENERATOR - CHECKER)
+🎄・**Yeni nesil tokenleri baz alarak hesap oluşturur.**
+
 🎄・**Üretim süresi, girdiğiniz sayıya göre değişiklik gösterir.**
 
 🎄・**Tokenler.txt içinde ki tokenlerin hepsini 'GEÇERLİ-GEÇERSİZ' olmak üzere iki gruba ayırarak checkler.**
